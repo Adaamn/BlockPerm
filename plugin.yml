@@ -1,0 +1,9 @@
+name: Permission
+version: 1.0
+author: Adaamn
+description: Permission
+main: me.Adaam.Permisse.main
+commands:
+   ahoj:
+      description: Permission to destroy block, The block is set to EMERALD whenever it can be overwritten. 
+(If you find any problem, I'll fix it.)
